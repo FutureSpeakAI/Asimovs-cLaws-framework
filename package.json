@@ -1,7 +1,7 @@
 {
   "name": "@anthropic-ai/claw-framework",
-  "version": "1.0.0",
-  "description": "Constitutional AI Governance Framework — Asimov's cLaws with Ed25519 cryptographic attestation for multi-agent systems",
+  "version": "2.0.0",
+  "description": "Constitutional AI Governance Framework — Asimov's cLaws with HMAC-SHA256 integrity verification, memory watchdog, safe mode, and Ed25519 cross-agent attestation",
   "author": "FutureSpeak.AI",
   "license": "MIT",
   "homepage": "https://github.com/FutureSpeakAI/claw-framework",
@@ -30,7 +30,11 @@
     "multi-agent",
     "governance",
     "trust",
-    "claw"
+    "claw",
+    "hmac",
+    "integrity",
+    "safe-mode",
+    "memory-watchdog"
   ],
   "devDependencies": {
     "@types/node": "^22.0.0",
