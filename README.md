@@ -1,3 +1,5 @@
+> **This project now lives on in [Agent-Friday](https://github.com/FutureSpeakAI/Agent-Friday), archived 2026-10-11.**
+
 # cLaw Framework
 
 **Compiled Laws for AI Agents** — cryptographic governance ensuring every AI agent in a multi-agent system operates under verifiable, tamper-proof behavioral constraints.
